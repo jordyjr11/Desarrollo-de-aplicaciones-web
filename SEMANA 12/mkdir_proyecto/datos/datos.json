@@ -1,0 +1,46 @@
+{
+    "productos": [
+        {
+            "id": 3,
+            "nombre": "Coca cola",
+            "cantidad": 10,
+            "precio": 1.25
+        },
+        {
+            "id": 1,
+            "nombre": "Esfero",
+            "cantidad": 5,
+            "precio": 0.5
+        },
+        {
+            "id": 5,
+            "nombre": "Lunes",
+            "cantidad": 20,
+            "precio": 2.0
+        },
+        {
+            "id": 7,
+            "nombre": "Merienda",
+            "cantidad": 2,
+            "precio": 3.75
+        },
+        {
+            "id": 2,
+            "nombre": "Moto Kawasaki",
+            "cantidad": 2,
+            "precio": 6578.0
+        },
+        {
+            "id": 6,
+            "nombre": "hola",
+            "cantidad": 1,
+            "precio": 1.0
+        },
+        {
+            "id": 4,
+            "nombre": "prueba",
+            "cantidad": 25,
+            "precio": 12.2
+        }
+    ]
+}
